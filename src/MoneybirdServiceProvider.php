@@ -1,6 +1,6 @@
 <?php
 
-namespace Casdr\Moneybird;
+namespace Cblacks\Moneybird;
 
 use Illuminate\Support\ServiceProvider;
 use Picqer\Financials\Moneybird\Connection;

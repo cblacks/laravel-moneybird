@@ -1,5 +1,5 @@
 <?php
-namespace Casdr\Moneybird;
+namespace Cblacks\Moneybird;
 
 use Illuminate\Support\Facades\Facade as IlluminateFacade;
 
