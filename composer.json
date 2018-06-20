@@ -19,13 +19,15 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "cblacks/moneybird-php-client": "dev-master"
+        "cblacks/moneybird-php-client": "^0.13.0"
     },
     "autoload": {
         "psr-4": {
             "Cblacks\\Moneybird\\": "src"
         }
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "repositories": {
         "cblacks/moneybird-php-client": {
             "type": "vcs",
