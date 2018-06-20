@@ -19,7 +19,7 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "cblacks/moneybird-php-client": "^0.13.0"
+        "cblacks/moneybird-php-client": "*"
     },
     "autoload": {
         "psr-4": {
